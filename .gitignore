@@ -2,3 +2,6 @@ test
 flto-test
 *.bak
 tools/gen-char-class
+build
+silver-*
+
