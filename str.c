@@ -31,6 +31,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 #define _DEFAULT_SOURCE		// for strncasecmp()
+#define _GNU_SOURCE
 #define _XOPEN_SOURCE 500	// for IOV_MAX
 
 #include "str.h"
